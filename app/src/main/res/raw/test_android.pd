@@ -1,0 +1,6 @@
+#N canvas 343 -517 450 300 12;
+#X obj 118 41 loadbang;
+#X obj 118 65 t b b;
+#X obj 118 89 s android_test;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;

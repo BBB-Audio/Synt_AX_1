@@ -1,0 +1,10 @@
+#N canvas 200 200 450 150;
+#N canvas 0 0 450 150 test_bridge;
+#X msg 100 50 1;
+#X obj 100 100 send android_test_float;
+#X obj 200 100 send android_test_bang;
+#X obj 100 75 t b f;
+#X obj 200 75 t b b;
+#X connect 0 0 3 0;
+#X connect 3 0 1 0;
+#X connect 3 1 2 0;

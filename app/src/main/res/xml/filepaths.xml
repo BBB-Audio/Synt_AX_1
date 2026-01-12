@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--
+      This path grants access to the app's internal files directory,
+      which is where samples are typically stored.
+      The 'name' attribute is what you can use in the share intent if needed,
+      and 'path' specifies the directory. "." means the root of that directory.
+    -->
+    <cache-path
+        name="shared_cache"
+        path="." />
+</paths>
