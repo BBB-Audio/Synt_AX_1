@@ -1,7 +1,7 @@
-![logo.png](docs/logo.png)
+![Logo](docs/Logo.png)
 
 # Synt_AX1
-### V0.8 Public Beta
+### V0.8.2 Public Beta
 
 ### Syntax Institut - Batch 26 - Modul 4 - Android Final Project by Dirk Hammacher
 

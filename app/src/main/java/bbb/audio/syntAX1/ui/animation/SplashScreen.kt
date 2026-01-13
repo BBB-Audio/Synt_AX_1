@@ -65,7 +65,7 @@ fun SplashScreen(onTimeout: () -> Unit) {
     LaunchedEffect(Unit) {
         // Stage 1: App Title
         showMiddleAnimation = true
-        currentText = "Starting SYNTH_AX_0.8 Beta"
+        currentText = "Starting SYNTH_AX_0.8.2 Beta"
         delay(6700)
 
         // Stage 2: Initialize Pure Data
