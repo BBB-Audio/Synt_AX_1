@@ -3,7 +3,7 @@
 # Synt_AX1
 ### V0.8.2 Public Beta
 
-### Syntax Institut - Batch 26 - Modul 4 - Android Final Project by Dirk Hammacher
+### Syntax Institut - Batch 26 - Modul 4 - Android Final Project by BBB - Audio
 
 ## Author
 
